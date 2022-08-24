@@ -1,6 +1,8 @@
-public struct JHKit {
-    public private(set) var text = "Hello, World!"
+//
+//  File.swift
+//  
+//
+//  Created by rastar on 2022/8/24.
+//
 
-    public init() {
-    }
-}
+import Foundation

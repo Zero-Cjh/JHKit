@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "jhalert",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zero-Cjh/JHAlert",
+      "state" : {
+        "revision" : "8df1cf2a7544c019d890ddae818f98538c62f23f",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "jhhud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zero-Cjh/JHHUD",
+      "state" : {
+        "revision" : "a69c73c47c72264df5345d6a6fbccfaf985abb6d",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "jhtextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zero-Cjh/JHTextField",
+      "state" : {
+        "revision" : "1f876c72e59299c1dacbb9773152382332dd04ed",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "jhtoasttips",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Zero-Cjh/JHToastTips",
+      "state" : {
+        "revision" : "a3bc37bb73376b9bd8f6528c3dfd4d26966ee18c",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "revision" : "f222cbdf325885926566172f6f5f06af95473158",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
